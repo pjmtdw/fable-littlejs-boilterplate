@@ -14,7 +14,7 @@ Boilterplate for making a game using [LittleJS](https://github.com/KilledByAPixe
 `src/LittleJS.fs` was created using following command.
 
 ```
-$ ts2fable node_modules/littlejsengine/build/littlejs.d.ts src LitteJS.fs
+$ ts2fable node_modules/littlejsengine/build/littlejs.d.ts src/LitteJS.fs
 ```
 
 some type such as `AudioBufferSourceNode` is not defined so added manually.
